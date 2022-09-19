@@ -1,2 +1,5 @@
 new File
 second line
+
+
+Adding new lines from the branch feature
